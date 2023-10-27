@@ -1,0 +1,12 @@
+{
+  "client_id" : "ceea592d-b00c-4e68-899a-cd48753ed54a",
+  "authorization_user_agent" : "DEFAULT",
+  "redirect_uri" : "msauth://com.aussource.azureb2cdemo/0bnBTKf2oE4RjLs5CB9enQK56Ao%3D",
+  "authorities" : [
+    {
+      "type": "B2C",
+      "authority_url": "https://netzerosecurenonprod.b2clogin.com/tfp/netzerosecurenonprod.onmicrosoft.com/B2C_1_testb2c/",
+      "default": true
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AzureB2cDemo</string>
+    <string name="auth">Single Auth</string>
+</resources>
